@@ -270,7 +270,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1046688864773067258, guid: ad6ce9cf9c1de704581d09613980275c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.18
+      value: 12.23
       objectReference: {fileID: 0}
     - target: {fileID: 1046688864773067258, guid: ad6ce9cf9c1de704581d09613980275c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1032,7 +1032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementVector: {x: 10, y: 0, z: 0}
-  period: 6
+  period: 4
 --- !u!1 &1285391106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,7 +1489,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1678741374}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.51, y: 6.26, z: -1.25}
+  m_LocalPosition: {x: 8.51, y: 10.06, z: -1.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 631078898}
